@@ -11,12 +11,6 @@
 [<img src="https://spotify-readme.ilsassone.vercel.app/api/spotify-playing" alt="sassone Playing" width="350" />](https://open.spotify.com/user/4crwvcw4eg9gy8wbimo8wh8f2?si=B1JQYa-hRY2KDyMmIC0vtw)
 -->
 
-### Connect with me:
-
-[<img align="left" alt="mattia" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mattia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
