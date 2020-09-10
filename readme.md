@@ -5,9 +5,9 @@
 ## I'm a student and a developer
 
 
-
+<!--
 ### Spotify Playing 🎧
-[<img src="https://spotify-readme.ilsassone.vercel.app/api/spotify-playing" alt="sassone Playing" width="350" />](https://open.spotify.com/user/4crwvcw4eg9gy8wbimo8wh8f2?si=B1JQYa-hRY2KDyMmIC0vtw)
+[<img src="https://spotify-readme.ilsassone.vercel.app/api/spotify-playing" alt="sassone Playing" width="350" />](https://open.spotify.com/user/4crwvcw4eg9gy8wbimo8wh8f2?si=B1JQYa-hRY2KDyMmIC0vtw)-->
 
 ### Connect with me:
 
