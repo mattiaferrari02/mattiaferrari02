@@ -2,14 +2,17 @@
 
 [![Website](https://img.shields.io/website?label=mattiaferrari.com&style=for-the-badge&url=https%3A%2F%2Fmattiaferrari.herokuapp.com)](https://mattiaferrari.herokuapp.com)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/matty_105/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mattia.ferrari.75436)
+
+
 
 ## I'm a student and a developer
 
 
-<!--
+
 ### Spotify Playing 🎧
-[<img src="https://spotify-readme.ilsassone.vercel.app/api/spotify-playing" alt="sassone Playing" width="350" />](https://open.spotify.com/user/4crwvcw4eg9gy8wbimo8wh8f2?si=B1JQYa-hRY2KDyMmIC0vtw)
--->
+[![Spotify](https://novatorem.ilsassone.vercel.app/api/spotify)](https://open.spotify.com/user/4crwvcw4eg9gy8wbimo8wh8f2?si=B1JQYa-hRY2KDyMmIC0vtw)
+
 
 
 ### Languages and Tools:
