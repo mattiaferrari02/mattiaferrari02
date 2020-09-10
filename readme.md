@@ -44,8 +44,8 @@
 
 
 
-  <img align="left" alt="Mattia's Github Stats" src="https://github-readme-stats.ilsassone.vercel.app/api?username=IlSassone&show_icons=true&hide_border=true" />
-  [![Top Langs]https://github-readme-stats.ilsassone.vercel.app/api/top-langs/?username=IlSassone](https://github.com/IlSassone/github-readme-stats)
+  <img align="left" alt="Mattia's Github Stats" src="https://github-readme-stats.ilsassone.vercel.app/api?username=IlSassone&show_icons=true&hide_border=true&theme=dark" />
+  
 
 
 [website]: https://mattiaferrari.herokuapp.com
