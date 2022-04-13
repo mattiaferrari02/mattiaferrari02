@@ -35,19 +35,8 @@
 <img align="left" alt="MySql" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mysql/mysql.png" />
 
 
-<br />
-<br />
-
----
 
 
-
-
-
-  <img align="left" alt="Mattia's Github Stats" src="https://github-readme-stats.ilsassone.vercel.app/api?username=IlSassone&show_icons=true&hide_border=true&theme=dark" />
-  
-  [![Top Langs](https://github-readme-stats.ilsassone.vercel.app/api/top-langs/?username=IlSassone&bg_color=363434&title_color=efecec&icon_color=62929a&text_color=efecec)](https://github.com/anuraghazra/github-readme-stats)
-  
   <!--START_SECTION:activity-->
 
 
